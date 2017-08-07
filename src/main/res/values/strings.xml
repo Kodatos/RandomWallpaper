@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Wallpaper</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_description">The directory containing images</string>
+    <string name="path_hint">Eg. /storage/emulated/0/DCIM/</string>
+    <string name="image_path_key">Image Path</string>
+    <string name="directory_path_key">Directory Path</string>
+</resources>
